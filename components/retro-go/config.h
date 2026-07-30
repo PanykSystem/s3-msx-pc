@@ -31,7 +31,7 @@
 #endif
 
 #ifndef RG_PROJECT_VER
-#define RG_PROJECT_VER "1.0.5-msx-pc"
+#define RG_PROJECT_VER "Unreleased"
 #endif
 
 #ifndef RG_BUILD_INFO
